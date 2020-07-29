@@ -5,3 +5,4 @@ Reproducible test case for an auto-changelog issue.
 ## Example Project Changes
 
 One
+Two
