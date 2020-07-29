@@ -7,3 +7,4 @@ Reproducible test case for an auto-changelog issue.
 One
 Two
 Three
+Four
