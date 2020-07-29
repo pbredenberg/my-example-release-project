@@ -1,6 +1,6 @@
 {
   "name": "my-example-release-project",
-  "version": "1.2.1-rc.0",
+  "version": "1.2.1-rc.1",
   "description": "An example project using @silvermine/standardization and the silvermine-release tool",
   "main": "index.js",
   "scripts": {
