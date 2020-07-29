@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@silvermine/standardization": "git://github.com/pbredenberg/standardization.git#4bc3543d99d829b90ed6bf14dd63de759c06dc14"
+    "@silvermine/standardization": "git://github.com/pbredenberg/standardization.git#4bc3543d99d829b90ed6bf14dd63de759c06dc14",
+    "auto-changelog": "2.2.0"
   }
 }
